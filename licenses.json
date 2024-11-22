@@ -10,7 +10,7 @@
         "expiry_date": "2024-11-25",
         "active": true,
         "created_at": "2024-11-22 13:41:14",
-        "used_by": null,
-        "used_at": null
+        "used_by": "teste",
+        "used_at": "2024-11-22 13:42:08"
     }
 }
