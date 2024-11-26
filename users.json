@@ -3,7 +3,8 @@
         "password": "7c222fb2927d828af22f592134e8932480637c0d",
         "license_key": null,
         "created_at": "2024-01-01 00:00:00",
-        "is_admin": true
+        "is_admin": true,
+        "deriv_token": "QDrDHCSuQilBO8k"
     },
     "otavio": {
         "password": "8d93c8a196a1d63c95815dffd7eb788f8596fc272770375d4109dc636100de11",
