@@ -9,5 +9,13 @@
         "current_users": [],
         "used_by": null,
         "used_at": null
+    },
+    "83a2cd9de34dce0c": {
+        "expiry_date": "2025-02-19",
+        "active": true,
+        "created_at": "2025-01-20 13:21:48",
+        "created_by": "t.me/otaviomoraiis",
+        "used_by": null,
+        "used_at": null
     }
 }
