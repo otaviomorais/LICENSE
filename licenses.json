@@ -15,7 +15,8 @@
         "is_test": true,
         "max_users": 10,
         "current_users": [
-            "teste2"
+            "teste2",
+            "teste3"
         ],
         "used_by": "teste",
         "used_at": "2025-01-21 16:23:26"
