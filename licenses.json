@@ -8,5 +8,13 @@
         "used_by": "teste",
         "used_at": "2025-01-24 16:59:33",
         "active": true
+    },
+    "83f24a085195b335": {
+        "expiry_date": "2025-02-23",
+        "active": true,
+        "created_at": "2025-01-24 17:53:18",
+        "created_by": "t.me/otaviomoraiis",
+        "used_by": null,
+        "used_at": null
     }
 }
