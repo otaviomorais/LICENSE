@@ -1,10 +1,7 @@
 {
     "e9cdb6ab89120367": {
-        "expiry_date": "2025-02-24",
-        "active": true,
-        "created_at": "2025-01-25 22:17:16",
-        "created_by": "t.me/otaviomoraiis",
         "used_by": "teste",
-        "used_at": "2025-01-25 22:17:45"
+        "used_at": "2025-01-25 22:17:45",
+        "active": true
     }
 }
