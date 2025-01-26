@@ -11,5 +11,13 @@
     "created_at": "2025-01-26 19:03:39",
     "user": "teste6",
     "status": "active"
+  },
+  "9e4c9962c2c8472b": {
+    "type": "demo",
+    "expiry_date": "2025-02-02",
+    "email": "otavio.hfm36@gmail.com",
+    "created_at": "2025-01-26 19:16:26",
+    "user": "teste8",
+    "status": "active"
   }
 }
