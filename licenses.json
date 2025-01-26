@@ -1,13 +1,7 @@
 {
     "25dda88e1a670fd5": {
-        "expiry_date": "2025-02-25",
-        "active": true,
-        "created_at": "2025-01-26 18:16:01",
-        "created_by": "t.me/otaviomoraiis",
-        "username": "teste",
-        "password": "46070d4bf934fb0d4b06d9e2c46e346944e322444900a435d7d9a95e6d7435f5",
-        "used_at": "2025-01-26 18:16:43",
-        "last_login": "2025-01-26 18:16:43",
-        "used_by": "teste"
+        "used_by": "teste",
+        "used_at": "2025-01-26 18:16:44",
+        "active": true
     }
 }
