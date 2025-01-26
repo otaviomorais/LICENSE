@@ -1,11 +1,8 @@
 {
     "fa01275a5f7df274": {
-        "expiry_date": "2025-02-24",
-        "active": true,
-        "created_at": "2025-01-25 22:09:31",
-        "created_by": "t.me/otaviomoraiis",
         "used_by": "teste2",
-        "used_at": "2025-01-25 22:11:42"
+        "used_at": "2025-01-25 22:11:43",
+        "active": true
     },
     "af47633fc1bd92bd": {
         "used_by": "teste",
