@@ -1,10 +1,7 @@
 {
     "af47633fc1bd92bd": {
-        "expiry_date": "2025-02-24",
-        "active": true,
-        "created_at": "2025-01-25 21:55:47",
-        "created_by": "t.me/otaviomoraiis",
         "used_by": "teste",
-        "used_at": "2025-01-25 22:06:32"
+        "used_at": "2025-01-25 22:06:33",
+        "active": true
     }
 }
