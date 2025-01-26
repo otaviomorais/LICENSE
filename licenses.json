@@ -13,14 +13,8 @@
         "used_at": null
     },
     "859e1b7682a0276a": {
-        "expiry_date": "2025-02-25",
-        "active": true,
-        "created_at": "2025-01-26 15:25:36",
-        "created_by": "t.me/otaviomoraiis",
-        "used_by": null,
-        "used_at": "2025-01-26 17:01:24",
-        "username": "teste3",
-        "password": "46070d4bf934fb0d4b06d9e2c46e346944e322444900a435d7d9a95e6d7435f5",
-        "last_login": "2025-01-26 17:01:24"
+        "used_by": "teste3",
+        "used_at": "2025-01-26 17:01:25",
+        "active": true
     }
 }
