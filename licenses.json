@@ -7,5 +7,13 @@
     "user": "renan",
     "status": "used",
     "used_by": "renan"
+  },
+  "62050ce4f96043d2": {
+    "type": "demo",
+    "expiry_date": "2025-02-06",
+    "email": "otavio.hfm36@gmail.com",
+    "created_at": "2025-01-30 12:58:06",
+    "user": "teste",
+    "status": "active"
   }
 }
