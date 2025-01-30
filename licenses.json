@@ -9,10 +9,8 @@
         "used_by": "renan"
     },
     "bf442f2a6b9d451b": {
-        "expiry_date": "2025-02-06",
-        "active": true,
-        "created_at": "2025-01-30 16:55:41",
         "used_by": "teste",
-        "used_at": "2025-01-30 16:55:59"
+        "used_at": "2025-01-30 16:56:00",
+        "active": true
     }
 }
