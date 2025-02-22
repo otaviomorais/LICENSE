@@ -1,3 +1,10 @@
 {
-
+  "7b936cb9af4e4c2e": {
+    "type": "demo",
+    "expiry_date": "2025-03-01",
+    "email": "otavio.hfm36@gmail.com",
+    "created_at": "2025-02-22 03:21:17",
+    "user": "teste",
+    "status": "active"
+  }
 }
