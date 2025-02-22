@@ -5,6 +5,7 @@
     "email": "otavio.hfm36@gmail.com",
     "created_at": "2025-02-22 03:21:17",
     "user": "teste",
-    "status": "active"
+    "status": "used",
+    "used_by": "teste"
   }
 }
