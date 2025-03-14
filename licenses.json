@@ -1,12 +1,11 @@
 {
-  "e38de816972a49cd": {
+  "736dca0b61dc4ce7": {
     "type": "demo",
-    "expiry_date": "2025-03-12",
-    "email": "otavio.hfm36@gmail.com",
-    "created_at": "2025-03-10 15:53:17",
-    "user": "otavio",
-    "status": "used",
-    "used_by": "otavio"
+    "expiry_date": "2025-02-03",
+    "email": "renansantim@gmail.com",
+    "created_at": "2025-01-27 22:50:15",
+    "user": "renan",
+    "status": "active"
   },
   "9c4334bd3bbc454e": {
     "type": "demo",
@@ -14,6 +13,7 @@
     "email": "renansantim@gmail.com",
     "created_at": "2025-03-13 21:19:24",
     "user": "renan",
-    "status": "active"
+    "status": "used",
+    "used_by": "renan"
   }
 }
