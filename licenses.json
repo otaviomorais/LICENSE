@@ -1,19 +1,11 @@
 {
-  "9c4334bd3bbc454e": {
-    "type": "demo",
-    "expiry_date": "2025-03-15",
-    "email": "renansantim@gmail.com",
-    "created_at": "2025-03-13 21:19:24",
-    "user": "renan",
-    "status": "used",
-    "used_by": "renan"
-  },
   "313bbbb17bd649f1": {
     "type": "demo",
     "expiry_date": "2025-03-20",
     "email": "otavio.hfm36@gmail.com",
     "created_at": "2025-03-18 20:34:45",
     "user": "profit",
-    "status": "active"
+    "status": "used",
+    "used_by": "profit"
   }
 }
