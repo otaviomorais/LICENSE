@@ -1,19 +1,11 @@
 {
-  "2079e29a1b52439d": {
-    "type": "demo",
-    "expiry_date": "2025-05-16",
-    "email": "osmarfreire32@gmail.com",
-    "created_at": "2025-05-09 18:30:03",
-    "user": "Mazinho",
-    "status": "used",
-    "used_by": "Mazinho"
-  },
   "9825d8bc0d55415c": {
     "type": "demo",
     "expiry_date": "2025-05-18",
     "email": "gomestierry87@gmail.com",
     "created_at": "2025-05-11 23:19:29",
     "user": "marcio",
-    "status": "active"
+    "status": "used",
+    "used_by": "marcio"
   }
 }
